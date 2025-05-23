@@ -39,7 +39,7 @@ The genetic algorithm represents each seating arrangement as a mapping of guests
 
 3. **Run the genetic algorithm**:
    ```sh
-   python src/genetic_algorithm.py
+   python src/main.py
    ```
    (Or use the analysis scripts for parameter tuning and comparison.)
 

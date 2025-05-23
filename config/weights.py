@@ -45,5 +45,5 @@ INPUT_FILE = "inputs/seating_data.csv"
 OUTPUT_DIR = "outputs"
 
 # Visualization Settings
-GENERATE_VISUALIZATIONS = False
+GENERATE_VISUALIZATIONS = True
 VISUALIZATION_FORMAT = "png"  # Options: "png", "jpg", "pdf" 
