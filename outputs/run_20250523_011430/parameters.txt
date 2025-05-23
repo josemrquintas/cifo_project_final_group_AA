@@ -1,0 +1,12 @@
+Genetic Algorithm Parameters:
+Population Size: 500
+Max Generations: 1000
+Mutation Rate: 0.2
+Elite Size: 20
+Number of Tables: 8
+Table Capacity: 8
+Number of Guests: 64
+
+Results:
+Best Fitness Achieved: 144900
+Generations Run: 284

@@ -1,0 +1,5 @@
+Best Solution Details
+===================
+
+Run Number: 20
+Fitness Score: 161100

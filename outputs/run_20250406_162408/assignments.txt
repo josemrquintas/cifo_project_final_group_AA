@@ -1,0 +1,97 @@
+
+===== SEATING ARRANGEMENT =====
+WARNING: Not all guests are assigned to a table!
+
+Table 0 (8 guests):
+  Guest 1
+  Guest 6
+  Guest 16
+  Guest 17
+  Guest 18
+  Guest 26
+  Guest 27
+  Guest 28
+  Table Happiness: 36400
+
+Table 1 (8 guests):
+  Guest 2
+  Guest 3
+  Guest 4
+  Guest 7
+  Guest 8
+  Guest 9
+  Guest 10
+  Guest 15
+  Table Happiness: 26800
+
+Table 2 (6 guests):
+  Guest 22
+  Guest 35
+  Guest 36
+  Guest 40
+  Guest 41
+  Guest 42
+  Table Happiness: 10800
+
+Table 3 (8 guests):
+  Guest 5
+  Guest 11
+  Guest 12
+  Guest 13
+  Guest 14
+  Guest 23
+  Guest 24
+  Guest 25
+  Table Happiness: 19800
+
+Table 4 (8 guests):
+  Guest 29
+  Guest 30
+  Guest 32
+  Guest 33
+  Guest 55
+  Guest 56
+  Guest 57
+  Guest 58
+  Table Happiness: 17000
+
+Table 5 (6 guests):
+  Guest 51
+  Guest 52
+  Guest 61
+  Guest 62
+  Guest 63
+  Guest 64
+  Table Happiness: 15400
+
+Table 6 (5 guests):
+  Guest 19
+  Guest 20
+  Guest 21
+  Guest 34
+  Guest 43
+  Table Happiness: 5400
+
+Table 7 (6 guests):
+  Guest 38
+  Guest 44
+  Guest 47
+  Guest 48
+  Guest 50
+  Guest 53
+  Table Happiness: 10000
+
+Total Happiness: 141600
+Total Guests: 64
+Assigned Guests: 55
+
+WARNING: 9 guests not assigned to any table!
+  Guest 31 not assigned
+  Guest 37 not assigned
+  Guest 39 not assigned
+  Guest 45 not assigned
+  Guest 46 not assigned
+  Guest 49 not assigned
+  Guest 54 not assigned
+  Guest 59 not assigned
+  Guest 60 not assigned

@@ -1,0 +1,9 @@
+Statistical Analysis of Fitness Scores
+===================================
+
+Mean: 156106.67
+Median: 156700.00
+Std Dev: 3833.15
+Min: 145800.00
+Max: 161100.00
+Best Run: 20.00
